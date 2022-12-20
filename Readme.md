@@ -1,7 +1,7 @@
 <h1 align="center">Astronomy quiz (Api)</h1>
 
 <p align="center">
-    <img src="./assets/astronomy-quiz-homescreen.png" width="1200" height="500" />
+    <img src="./assets/astronomy-quiz-homescreen.png" width="1200" height="450" />
 </p>
 
 <h1 align="center">
